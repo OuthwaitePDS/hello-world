@@ -1,2 +1,2 @@
-This is my first file on git
-Checking git diff
+First time was a fail
+Lets see how this goes..
